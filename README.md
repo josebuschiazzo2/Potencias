@@ -1,2 +1,2 @@
-# Potencias
+# ParImparB
 Created with CodeSandbox
