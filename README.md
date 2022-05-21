@@ -1,0 +1,2 @@
+# Potencias
+Created with CodeSandbox
